@@ -1,5 +1,5 @@
-const WEBHOOK_URL = 'https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NjcwNTZjMDYzZjA0MzA1MjY4NTUzMzUxMzEi_pc'
-;
+const WEBHOOK_URL = 'https://connect.pabbly.com/workflow/sendwebhookdata/IjU3NjcwNTZjMDYzZjA0MzA1MjY4NTUzMzUxMzEi_pc';
+
 
     async function enviar() {
         const email = document.getElementById('email').value.trim();
